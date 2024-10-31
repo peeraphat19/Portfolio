@@ -53,4 +53,9 @@
   background-color: #F8D7C1;
   color: #ffffff;
 }
+
+a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
 </style>
