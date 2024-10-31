@@ -103,7 +103,7 @@ import Navbar from '../components/Navbar.vue';
 <style>
 .bgresume {
     background-color: rgb(109, 107, 107);
-    height: 94.1vh;
+    height: 100vh;
 }
 
 .Page {

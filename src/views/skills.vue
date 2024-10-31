@@ -28,7 +28,7 @@ import vmore from "../components/Skillspage/vmore.vue";
 <style>
 .bgskill {
   background-color: #86a5c4;
-  height: 94.1vh;
+  height: 100vh;
 }
 
 .service_section {

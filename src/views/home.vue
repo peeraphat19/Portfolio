@@ -20,7 +20,7 @@ import Navbar from '../components/Navbar.vue'
 <style scoped>
 .bgindex {
     position: relative;
-    height: 94.1vh;
+    height: 100vh;
     overflow: hidden;
     margin: 0;
     padding: 0;
